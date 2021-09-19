@@ -1,0 +1,22 @@
+{
+  "name": "reactcourse",
+  "version": "1.0.0",
+  "description": "Test Directory to learn React - via Coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauapedrosa/ReactCourse.git"
+  },
+  "author": "Cauã Pedrosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cauapedrosa/ReactCourse/issues"
+  },
+  "homepage": "https://github.com/cauapedrosa/ReactCourse#readme",
+  "dependencies": {
+    "create-react-app": "^1.2.1"
+  }
+}
